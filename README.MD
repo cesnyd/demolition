@@ -1,0 +1,1 @@
+Added a limited amount of shots to make the game harder, is 6 per level, but 24 total over the 4 levels and they spill over. Added kitty ars and a bushy tail to the projectile to make it more cat like. Also added a text box with a little lore tidbit.
